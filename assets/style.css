@@ -142,6 +142,12 @@ body {
     width: 274px;
     margin: 20px 0 25px;
     overflow: auto;
+    height: 200px;
+  }
+
+  .image {
+      width: 480px;
+      height: 200px;
   }
   
   .work:nth-child(even) {
